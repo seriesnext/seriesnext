@@ -290,17 +290,3 @@ Unless terminated earlier pursuant to the terms of this Agreement, (x) the right
 ### 8.12. Dispute Resolution.
 
 Each party (a) hereby irrevocably and unconditionally submits to the personal jurisdiction of the Dispute Resolution Jurisdiction for the purpose of any suit, action, or other proceeding arising out of or based upon this Agreement; (b) shall not commence any suit, action or other proceeding arising out of or based upon this Agreement except in the Dispute Resolution Jurisdiction; and (c) hereby waives, and shall not assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject to the personal jurisdiction of the Dispute Resolution Jurisdiction, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement, or the subject matter hereof and thereof may not be enforced in or by the Dispute Resolution Jurisdiction.
-
-In witness whereof, the parties hereto have executed this Agreement as of the date and year first written above.
-
-    The Company
-
-    By:
-
-    Name: *[name of company signatory]*
-
-    Title: *[title of company signatory]*
-
-_Insert signature blocks for Key Holders here._
-
-_Insert signature blocks for Purchasers here._

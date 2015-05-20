@@ -24,6 +24,20 @@ Subject to the terms and conditions of this Agreement, including the Agreement T
 
 This Agreement (including the Exhibits and Schedules hereto) together with the Restated Charter constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
 
+In witness whereof, the parties hereto have executed this Agreement as of the date and year first written above.
+
+    The Company
+
+    By:
+
+    Name: *[name of company signatory]*
+
+    Title: *[title of company signatory]*
+
+_Insert signature blocks for Key Holders here._
+
+_Insert signature blocks for Purchasers here._
+
 Exhibit A
 ---------
 

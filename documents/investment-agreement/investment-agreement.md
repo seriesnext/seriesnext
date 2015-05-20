@@ -38,6 +38,11 @@ _Insert signature blocks for Key Holders here._
 
 _Insert signature blocks for Purchasers here._
 
+Schedule 1
+----------
+
+_Attach the schedule here._
+
 Exhibit A
 ---------
 

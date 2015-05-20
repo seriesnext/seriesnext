@@ -1,7 +1,8 @@
 Definitions
 ===========
 
-### 1. OVERVIEW DEFINITIONS.
+1. Overview Definitions.
+------------------------
 
 "**Agreement Date**" means *____________________________________________.*
 
@@ -15,7 +16,8 @@ Definitions
 
 "**Stock Plan**" means *________________________________________________.*
 
-### 2. BOARD COMPOSITION DEFINITIONS.
+2. Board Composition Definitions.
+---------------------------------
 
 "**Common Board Member Count**" means *______.*
 
@@ -25,7 +27,8 @@ Definitions
 
 "**Common Control Holders**" means the Key Holders *[optional: who are then providing services to the company as employees]*.
 
-### 3. TERM SHEET DEFINITIONS.
+3. Term Sheet Definitions.
+--------------------------
 
 "**Major Purchaser Dollar Threshold**" means *$____________.*
 
@@ -37,7 +40,8 @@ Definitions
 
 "**Purchaser Counsel Reimbursement Amount**" means *$____________.*
 
-#### 4. RESULTING CAP TABLE DEFINITIONS.
+4. Resulting Cap Table Definitions.
+-----------------------------------
 
 "**Common Shares Issued and Outstanding Pre-Money**" means *____________.*
 
@@ -46,74 +50,3 @@ Definitions
 "**Number of Issued And Outstanding Options**" means *____________.*
 
 "**Unallocated Post-Money Option Pool Shares**" means *____________.*
-
-# SCHEDULE 1
-
-# SCHEDULE OF PURCHASERS & KEY HOLDERS
-
-## PURCHASERS:
-
-Name, Address and E-Mail of Purchaser / Series Seed Preferred Stock Shares Purchased / Indebtedness Cancellation / Cash Payment / Total Purchase Amount
-
-1:
-
-2:
-
-3:
-
-4:
-
-5:
-
-6:
-
-7:
-
-8:
-
-9:
-
-10:
-
-11:
-
-12:
-
-13:
-
-14:
-
-15:
-
-16:
-
-17:
-
-18:
-
-19:
-
-20:
-
-KEY HOLDERS:
-Name, Address and E-Mail of Key Holder / Shares of Common Stock Held
-
-1:
-
-2:
-
-3:
-
-4:
-
-5:
-
-6:
-
-7:
-
-8:
-
-9:
-
-10:

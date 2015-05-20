@@ -4,21 +4,21 @@ Certificate of Incorporation
 Article I. Name.
 ----------------
 
-The name of this corporation is *[corporation name]*  (the "**Corporation**").
+The name of this corporation is _{corporation name}_  (the "**Corporation**").
 
 Article II. Registered Office.
 ------------------------------
 
-The address of the registered office of the Corporation in the State of Delaware is *[registered office address]*, in the City of *[registered office city]*, County of *[registered office county]*. The name of its registered agent at such address is *[registered agent name]*.
+The address of the registered office of the Corporation in the State of Delaware is _{registered office address}_, in the City of _{registered office city}_, County of _{registered office county}_. The name of its registered agent at such address is _{registered agent name}_.
 
 Article III. Definitions.
 -------------------------
 
 As used in this Restated Certificate (the "**Restated Certificate**"), the following terms have the meanings set forth below:
 
-"**Board Composition**" means that for so long as at least 25% of the initially issued shares of Preferred Stock remain outstanding, the holders of record of the shares of Series Seed Preferred Stock exclusively and as a separate class, are entitled to elect *[number of Series Seed directors]* director(s) of the Corporation (the "**Series Seed Director(s)**"), the holders of record of the shares of Common Stock, exclusively and as a separate class, shall be entitled to elect *[number of common directors]* director(s) of the Corporation, and any additional directors will elected by the affirmative vote of a majority of the Preferred Stock and Common Stock, voting together as a single class on an as-converted basis. For administrative convenience, the initial Series Seed Director may also be appointed by the Board in connection with the approval of the initial issuance of Series Seed Preferred Stock without a separate action by the holders of a majority of Series Seed Preferred Stock.
+"**Board Composition**" means that for so long as at least 25% of the initially issued shares of Preferred Stock remain outstanding, the holders of record of the shares of Series Seed Preferred Stock exclusively and as a separate class, are entitled to elect _{number of Series Seed directors}_ director(s) of the Corporation (the "**Series Seed Director(s)**"), the holders of record of the shares of Common Stock, exclusively and as a separate class, shall be entitled to elect _{number of common directors}_ director(s) of the Corporation, and any additional directors will elected by the affirmative vote of a majority of the Preferred Stock and Common Stock, voting together as a single class on an as-converted basis. For administrative convenience, the initial Series Seed Director may also be appointed by the Board in connection with the approval of the initial issuance of Series Seed Preferred Stock without a separate action by the holders of a majority of Series Seed Preferred Stock.
 
-"**Original Issue Price**" means $*[original issue price]* per share for the Series Seed Preferred Stock.
+"**Original Issue Price**" means $_{original issue price}_ per share for the Series Seed Preferred Stock.
 
 "**Requisite Holders**" means the holders of a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis).
 
@@ -30,7 +30,7 @@ The nature of the business or purposes to be conducted or promoted is to engage 
 Article V. Authorized Shares.
 -----------------------------
 
-The total number of shares of all classes of stock that the Corporation has authority to issue is *[total nubmer of authorized shares]*, consisting of (a) *[number of authorized common shares]* shares of Common Stock, $*[pare value of common stock]* per share and (b) *[number of authorized preferred shares]* shares of Preferred Stock, $*[par value of preferred stock]* per share. The Preferred Stock may be issued from time to time in one or more series, each of such series to consist of such number of shares and to have such terms, rights, powers and preferences, and the qualifications and limitations with respect thereto, as stated or expressed herein.  As of the effective date of this Restated Certificate, all shares of the Preferred Stock of the Corporation are hereby designated "**Series Seed Preferred Stock**".
+The total number of shares of all classes of stock that the Corporation has authority to issue is _{total nubmer of authorized shares}_, consisting of (a) _{number of authorized common shares}_ shares of Common Stock, $_{pare value of common stock}_ per share and (b) _{number of authorized preferred shares}_ shares of Preferred Stock, $_{par value of preferred stock}_ per share. The Preferred Stock may be issued from time to time in one or more series, each of such series to consist of such number of shares and to have such terms, rights, powers and preferences, and the qualifications and limitations with respect thereto, as stated or expressed herein.  As of the effective date of this Restated Certificate, all shares of the Preferred Stock of the Corporation are hereby designated "**Series Seed Preferred Stock**".
 
 ### A. Common Stock.
 

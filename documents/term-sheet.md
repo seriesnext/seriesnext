@@ -1,9 +1,9 @@
-Terms for Private Placement of Series Seed Preferred Stock of *[corporation name]*
+Terms for Private Placement of Series Seed Preferred Stock of _{corporation name}_
 ==================================================================================
 
-*[date]*
+_{date}_
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[corporation name]*, a Delaware corporation (the "**Company**").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of _{corporation name}_, a Delaware corporation (the "**Company**").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 Securities to Issue
 -------------------
@@ -13,17 +13,17 @@ Shares of Series Seed Preferred Stock of the Company (the "**Series Seed**").
 Aggregate Proceeds
 ------------------
 
-$*[aggregate Proceeds]* in aggregate.
+$_{aggregate Proceeds}_ in aggregate.
 
 Purchasers
 ----------
 
-*[list of accredited investors approved by the company]* (the "**Purchasers**").
+_{list of accredited investors approved by the company}_ (the "**Purchasers**").
 
 Price Per Share
 ---------------
 
-Price per share (the "**Original Issue Price**"), based on a pre-money valuation of *$[pre-money valuation]*, including an available option pool of *[option pool percentage]*%.
+Price per share (the "**Original Issue Price**"), based on a pre-money valuation of $_{pre-money valuation}_, including an available option pool of _{option pool percentage}_%.
 
 Liquidation Preference
 -----------------------
@@ -56,7 +56,7 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 Financial Information
 ---------------------
 
-Purchasers who have invested at least $*[major purchaser minimum investment]* ("**Major Purchasers**") will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least $_{major purchaser minimum investment}_ ("**Major Purchasers**") will receive standard information and inspection rights and management rights letter.
 
 Participation Right
 -------------------
@@ -66,12 +66,12 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 Board of Directors
 ------------------
 
-*[number of common stock directors]* directors elected by holders of a majority of common stock, *[number of Series Seed directors]* elected by holders of a majority of Series Seed and *[number of mutual directors]* elected by mutual consent.
+_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Seed directors}_ elected by holders of a majority of Series Seed and _{number of mutual directors}_ elected by mutual consent.
 
 Expenses
 --------
 
-Company to reimburse counsel to Purchasers for a flat fee of $10,000.
+Company to reimburse counsel to Purchasers for a flat fee of $_{purchaser counsel reimbursement amount}_.
 
 Future Rights
 -------------
@@ -81,7 +81,7 @@ The Series Seed will be given the same rights as the next series of Preferred St
 Key Holder Matters
 ------------------
 
-Each Key Holder shall have four years vesting beginning *[key holder vesting period start date]*. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each Key Holder shall have four years vesting beginning _{key holder vesting period start date}_. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 Binding Terms
 -------------

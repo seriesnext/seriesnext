@@ -30,9 +30,9 @@ In witness whereof, the parties hereto have executed this Agreement as of the da
 
     By:
 
-    Name: *[name of company signatory]*
+    Name:
 
-    Title: *[title of company signatory]*
+    Title:
 
 _Insert signature blocks for Key Holders here._
 

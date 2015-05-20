@@ -1,5 +1,5 @@
-*[corporation name]* Restated Certificate of Incorporation
-==========================================================
+Certificate of Incorporation
+============================
 
 Article I. Name.
 ----------------

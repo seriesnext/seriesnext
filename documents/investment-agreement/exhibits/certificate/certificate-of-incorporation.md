@@ -3,7 +3,7 @@
 
 (Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
 
-*[corporation name]*, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the "General Corporation Law"), does hereby certify as follows.
+*[corporation name]*, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the "**General Corporation Law**"), does hereby certify as follows.
 
 1. The name of this corporation is *[corporation name]* and that this corporation was originally incorporated pursuant to the General Corporation Law on *[date of incorporation]* under the name *[original corporation name]*.
 

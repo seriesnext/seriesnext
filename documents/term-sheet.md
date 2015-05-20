@@ -3,12 +3,12 @@ Terms for Private Placement of Series Seed Preferred Stock of *[corporation name
 
 *[date]*
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[corporation name]*, a Delaware corporation (the "Company").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[corporation name]*, a Delaware corporation (the "**Company**").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 Securities to Issue
 -------------------
 
-Shares of Series Seed Preferred Stock of the Company (the "Series Seed").
+Shares of Series Seed Preferred Stock of the Company (the "**Series Seed**").
 
 Aggregate Proceeds
 ------------------
@@ -18,12 +18,12 @@ $*[aggregate Proceeds]* in aggregate.
 Purchasers
 ----------
 
-*[list of accredited investors approved by the company]* (the "Purchasers").
+*[list of accredited investors approved by the company]* (the "**Purchasers**").
 
 Price Per Share
 ---------------
 
-Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[pre-money valuation]*, including an available option pool of *[option pool percentage]*%.
+Price per share (the "**Original Issue Price**"), based on a pre-money valuation of *$[pre-money valuation]*, including an available option pool of *[option pool percentage]*%.
 
 Liquidation Preference
 -----------------------
@@ -56,7 +56,7 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 Financial Information
 ---------------------
 
-Purchasers who have invested at least $*[major purchaser minimum investment]* ("Major Purchasers") will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least $*[major purchaser minimum investment]* ("**Major Purchasers**") will receive standard information and inspection rights and management rights letter.
 
 Participation Right
 -------------------

@@ -23,7 +23,7 @@ Definitions
 
 "**Mutual Consent Board Member Count**" means _{number of mutual directors}_.
 
-"**Series Seed Board Member Count**" means _{number of Series Seed directors}_.
+"**Series Next Board Member Count**" means _{number of Series Next directors}_.
 
 "**Common Control Holders**" means the Key Holders. _Optionally add the text, "who are then providing services to the company as employees"._
 
@@ -34,7 +34,7 @@ Definitions
 
 "**Purchase Price**" means $_{original issue price}_ per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
 
-"**Total Series Seed Investment Amount**" means _{total Series Seed investment amount}_.
+"**Total Series Next Investment Amount**" means _{total Series Next investment amount}_.
 
 "**Unallocated Post-Money Option Pool Percent**" means _{unallocated option pool percent}_.
 

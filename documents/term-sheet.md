@@ -3,7 +3,7 @@ Terms for Private Placement of Series Seed Preferred Stock of _{corporation name
 
 _{date}_
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of _{corporation name}_, a Delaware corporation (the "**Company**").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of _{corporation name}_, a Delaware corporation (the "**Company**"). Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation. The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 Securities to Issue
 -------------------
@@ -28,7 +28,7 @@ Price per share (the "**Original Issue Price**"), based on a pre-money valuation
 Liquidation Preference
 -----------------------
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common.  A merger, reorganization or similar transaction will be treated as a liquidation.
+One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common. A merger, reorganization or similar transaction will be treated as a liquidation.
 
 Conversion
 ----------
@@ -38,7 +38,7 @@ Convertible into one share of Common (subject to proportional adjustments for st
 Voting Rights
 -------------
 
-Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to:
+Votes together with the Common Stock on all matters on an as converted basis. Approval of a majority of the Preferred Stock required to:
 
 1. adversely change rights of the Preferred Stock;
 2. change the authorized number of shares;
@@ -86,7 +86,7 @@ Each Key Holder shall have four years vesting beginning _{key holder vesting per
 Binding Terms
 -------------
 
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+For a period of thirty days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 --
 

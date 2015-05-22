@@ -12,7 +12,7 @@ task zip => docx_files do |t|
   sh "zip '#{t.name}' " + t.prerequisites.map { |file| "'#{file}'" }.join(' ')
 end
 
-rule '.docx' => '.md' do |t|
+rule '.docx' => ['.md', styles] do |t|
   sh "pandoc --reference-docx #{styles} --smart -o '#{t.name}' '#{t.source}'"
 end
 

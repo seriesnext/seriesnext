@@ -8,11 +8,11 @@ Definitions
 
 "**Company**" means _{corporation name}_.
 
-"**Governing Law**" means the laws of the state of _{governing law state}_.
+"**Governing Law**" means the laws of the State of _{governing law state}_.
 
 "**Dispute Resolution Jurisdiction**" means the federal or state courts located in _{federal forum}_.
 
-"**State of Incorporation**" means _{state of incorporation}_.
+"**State of Incorporation**" means the State of Delaware.
 
 "**Stock Plan**" means _{formal reference to the corporation's stock plan}_.
 

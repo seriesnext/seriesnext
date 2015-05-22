@@ -1,5 +1,5 @@
-Contributing
-============
+Contributing to the Series Next Documents
+=========================================
 
 We welcome contributions in the form of GitHub issues or pull requests. A [guide to contributing via GitHub][guide] is available.
 

@@ -1,14 +1,14 @@
-Terms for Private Placement of Series Seed Preferred Stock of _{corporation name}_
+Terms for Private Placement of Series Next Preferred Stock of _{corporation name}_
 ==================================================================================
 
 _{date}_
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of _{corporation name}_, a Delaware corporation (the "**Company**"). Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation. The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Next Preferred Stock financing of _{corporation name}_, a Delaware corporation (the "**Company**"). Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation. The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 Securities to Issue
 -------------------
 
-Shares of Series Seed Preferred Stock of the Company (the "**Series Seed**").
+Shares of Series Next Preferred Stock of the Company (the "**Series Next**").
 
 Aggregate Proceeds
 ------------------
@@ -28,7 +28,7 @@ Price per share (the "**Original Issue Price**"), based on a pre-money valuation
 Liquidation Preference
 -----------------------
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common. A merger, reorganization or similar transaction will be treated as a liquidation.
+One times the Original Issue Price plus declared but unpaid dividends on each share of Series Next, balance of proceeds paid to Common. A merger, reorganization or similar transaction will be treated as a liquidation.
 
 Conversion
 ----------
@@ -51,7 +51,7 @@ Votes together with the Common Stock on all matters on an as converted basis. Ap
 Documentation
 -------------
 
-Documents will be identical to the Series Seed Preferred Stock documents published at [seriesseed.com](http://www.seriesseed.com), except for the modifications set forth in this Term Sheet.
+Documents will be identical to the Series Next Preferred Stock documents published at [seriesnext.org](http://www.seriesnext.org), except for the modifications set forth in this Term Sheet.
 
 Financial Information
 ---------------------
@@ -66,7 +66,7 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 Board of Directors
 ------------------
 
-_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Seed directors}_ elected by holders of a majority of Series Seed and _{number of mutual directors}_ elected by mutual consent.
+_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next and _{number of mutual directors}_ elected by mutual consent.
 
 Expenses
 --------
@@ -76,7 +76,7 @@ Company to reimburse counsel to Purchasers for a flat fee of $_{purchaser counse
 Future Rights
 -------------
 
-The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
+The Series Next will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
 
 Key Holder Matters
 ------------------

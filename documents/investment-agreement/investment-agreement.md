@@ -1,7 +1,7 @@
-Series Seed Preferred Stock Investment Agreement
+Series Next Preferred Stock Investment Agreement
 ================================================
 
-This Series Seed Preferred Stock Investment Agreement (this "**Agreement**") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
+This Series Next Preferred Stock Investment Agreement (this "**Agreement**") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
 
 The parties agree as follows:
 
@@ -15,7 +15,7 @@ Capitalized terms used and not otherwise defined in this Agreement or the Exhibi
 
 Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B:
 
-1. each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and
+1. each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Next Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and
 
 2. each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties hereto the rights set forth in this Agreement.
 

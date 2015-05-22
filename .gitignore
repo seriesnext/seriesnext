@@ -1,0 +1,4 @@
+*.docx
+!microsoft-word-styles.docx
+*.zip
+Gemfile.lock

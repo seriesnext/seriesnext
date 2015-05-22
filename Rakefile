@@ -4,6 +4,7 @@ require 'rake/clean'
 markdown_files = Rake::FileList['**/*.md']
 docx_files = markdown_files.ext('docx')
 zip = 'Series-Next-Microsoft-Word.zip'
+styles = 'microsoft-word-styles.docx'
 
 task :default => zip
 
@@ -12,7 +13,7 @@ task zip => docx_files do |t|
 end
 
 rule '.docx' => '.md' do |t|
-  sh "pandoc --smart -o '#{t.name}' '#{t.source}'"
+  sh "pandoc --reference-docx #{styles} --smart -o '#{t.name}' '#{t.source}'"
 end
 
 CLEAN.include(docx_files)

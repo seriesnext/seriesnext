@@ -8,7 +8,7 @@ Agreement Terms
 
 #### 1.1.1.
 
-The Company shall adopt and file the Company's restated organizational documents, as applicable (e.g. certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as the same may be amended, restated, supplemented or otherwise modified from time to time) (the "**Restated Charter**") with the Secretary of State of the State of Incorporation on or before the Initial Closing.
+The Company shall adopt and file the Company's restated organizational documents, as applicable (e.g., certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as the same may be amended, restated, supplemented or otherwise modified from time to time) (the "**Restated Charter**") with the Secretary of State of the State of Incorporation on or before the Initial Closing.
 
 #### 1.1.2.
 
@@ -33,7 +33,7 @@ Promptly following each Closing, if required by the Company's governing document
 
 The Company hereby represents and warrants to each Purchaser that, except as set forth on the Disclosure Schedule attached as Exhibit D to this Agreement (the "**Disclosure Schedule**"), if any, which exceptions shall be deemed to be part of the representations and warranties made hereunder, the following representations are true and complete as of the date of the Agreement Date, except as otherwise indicated.
 
-### 2.1. Organization, Good Standing, Corporate Power and Qualification.
+### 2.1. Organization, Good Standing, Corporate Power, and Qualification.
 
 The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Incorporation and has all corporate power and corporate authority required (a) to carry on its business as presently conducted and as presently proposed to be conducted and (b) to execute, deliver and perform its obligations under this Agreement. The Company is duly qualified to transact business as a foreign corporation and is in good standing under the laws of each jurisdiction in which the failure to so qualify or be in good standing would have a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, or results of operations of the Company.
 
@@ -95,7 +95,7 @@ Except for this Agreement, there are no agreements, understandings, instruments,
 
 The Company has no liabilities or obligations, contingent or otherwise, in excess of $25,000 individually or $100,000 in the aggregate.
 
-3. Representations and Warranties and Covenants of the Purchasers.
+3. Representations, Warranties, and Covenants of the Purchasers.
 ------------------------------------------------------------------
 
 Each Purchaser hereby represents and warrants to the Company, severally and not jointly, as follows.

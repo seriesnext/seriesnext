@@ -28,17 +28,17 @@ Price per share (the "**Original Issue Price**"), based on a pre-money valuation
 Liquidation Preference
 -----------------------
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Next, balance of proceeds paid to Common. A merger, reorganization or similar transaction will be treated as a liquidation.
+One times the Original Issue Price plus declared but unpaid dividends on each share of Series Next, balance of proceeds paid to Common. A merger, reorganization, or similar transaction will be treated as a liquidation.
 
 Conversion
 ----------
 
-Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
+Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends, and the like) at any time at the option of the holder.
 
 Voting Rights
 -------------
 
-Votes together with the Common Stock on all matters on an as converted basis. Approval of a majority of the Preferred Stock required to:
+Votes together with the Common Stock on all matters on an as-converted basis. Approval of a majority of the Preferred Stock required to:
 
 1. adversely change rights of the Preferred Stock;
 2. change the authorized number of shares;
@@ -66,7 +66,7 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 Board of Directors
 ------------------
 
-_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next and _{number of mutual directors}_ elected by mutual consent.
+_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next, and _{number of mutual directors}_ elected by mutual consent.
 
 Expenses
 --------

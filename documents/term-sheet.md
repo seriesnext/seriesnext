@@ -51,7 +51,7 @@ Votes together with the Common Stock on all matters on an as-converted basis. Ap
 Documentation
 -------------
 
-Documents will be identical to the Series Next Preferred Stock documents published at [seriesnext.org](http://www.seriesnext.org), except for the modifications set forth in this Term Sheet.
+Documents will be identical to the most recently released version of the Series Next Preferred Stock documents published at [seriesnext.org](http://www.seriesnext.org), except for the modifications set forth in this Term Sheet.
 
 Financial Information
 ---------------------

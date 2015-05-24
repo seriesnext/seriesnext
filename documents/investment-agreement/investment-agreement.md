@@ -1,7 +1,7 @@
 Series Next Preferred Stock Investment Agreement
 ================================================
 
-This Series Next Preferred Stock Investment Agreement (this "**Agreement**") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
+This Series Next Preferred Stock Investment Agreement (this "**Agreement**") is dated as of the Agreement Date and is between the Company, the Purchasers, and the Key Holders.
 
 The parties agree as follows:
 

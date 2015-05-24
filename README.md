@@ -11,7 +11,7 @@ Series Next is a continuation of the [Series Seed](https://github.com/seriesseed
 License
 -------
 
-Series Next is open sourced liberally under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+To the extent possible under law, contributors have waived all copyright and related or neighboring rights to the Series Next Documents per the [Creative Commons CC0 1.0 Universal Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Disclaimer
 ----------

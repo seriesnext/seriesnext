@@ -1,8 +1,9 @@
-Definitions
-===========
+---
+title: "Definitions"
+---
 
 1. Overview Definitions.
-------------------------
+========================
 
 "**Agreement Date**" means _{date of the agreement}_.
 
@@ -17,7 +18,7 @@ Definitions
 "**Stock Plan**" means _{formal reference to the corporation's stock plan}_.
 
 2. Board Composition Definitions.
----------------------------------
+=================================
 
 "**Common Board Member Count**" means _{number of common directors}_.
 
@@ -28,7 +29,7 @@ Definitions
 "**Common Control Holders**" means the Key Holders. _Optionally add the text, "who are then providing services to the company as employees"._
 
 3. Term Sheet Definitions.
---------------------------
+==========================
 
 "**Major Purchaser Dollar Threshold**" means _{major purchaser minimum investment}_.
 
@@ -41,7 +42,7 @@ Definitions
 "**Purchaser Counsel Reimbursement Amount**" means _{purchaser counsel reimbursement amount}_.
 
 4. Resulting Cap Table Definitions.
------------------------------------
+===================================
 
 "**Common Shares Issued and Outstanding Pre-Money**" means _{common shares outstanding pre-money}_.
 

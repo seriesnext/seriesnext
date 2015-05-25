@@ -1,5 +1,6 @@
-Disclosure Schedule
-===================
+---
+title: "Disclosure Schedule"
+---
 
 See next page. If no next page, then there are no disclosures.
 

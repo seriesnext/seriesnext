@@ -56,7 +56,7 @@ Documents will be identical to the most recently released version of the Series 
 Financial Information
 ---------------------
 
-Purchasers who have invested at least $_{major purchaser minimum investment}_ ("**Major Purchasers**") will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least $_{major purchaser minimum investment}_ ("**Major Purchasers**") will receive standard information and inspection rights and a management rights letter.
 
 Participation Right
 -------------------

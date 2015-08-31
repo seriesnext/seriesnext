@@ -11,3 +11,19 @@ $(COMMONFORM):
 
 %.md: %.commonform %.options $(COMMONFORM)
 	$(COMMONFORM) render -f markdown $(shell cat $*.options) < $< > $@
+
+.PHONY: lint critique
+
+lint:
+	for form in $(FORMS); do \
+		echo $$form; \
+		$(COMMONFORM) lint < $$form | sort -u; \
+		echo; \
+	done
+
+critique:
+	for form in $(FORMS); do \
+		echo $$form; \
+		$(COMMONFORM) critique < $$form | sort -u; \
+		echo; \
+	done

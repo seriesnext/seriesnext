@@ -1,7 +1,7 @@
 Contributing to the Series Next Documents
 =========================================
 
-We welcome contributions in the form of GitHub issues or pull requests. A [guide to contributing via GitHub][guide] is available.
+We welcome contributions in the form of GitHub issues or pull requests. A [guide to contributing via GitHub][guide] is available from the predecessor Series Seed project.
 
 License and Disclaimer
 ----------------------
@@ -10,8 +10,13 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 The project's [README file][readme] contains a legal disclaimer that speaks on behalf of all contributors. Please review the disclaimer and confirm your agreement with it.
 
-Markdown Style Guide
---------------------
+Contract Style
+--------------
+
+In general, Series Next's drafting style aims to follow [*A Manual of Style for Contract Drafting*, volume 3][MSCD], by [Ken Adams][ken].
+
+Markdown Formatting
+-------------------
 
 Please conform to the overall style of the documents with respect to formatting using [Markdown](https://help.github.com/articles/markdown-basics/).
 
@@ -51,3 +56,7 @@ _Optionally include, "provided, however, ..."_
 [CC0]: http://creativecommons.org/publicdomain/zero/1.0/
 
 [readme]: ./README.md
+
+[MSCD]: http://www.adamsdrafting.com/writing/mscd/
+
+[ken]: http://www.adamsdrafting.com/

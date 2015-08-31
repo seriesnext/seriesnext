@@ -8,3 +8,6 @@ $(COMMONFORM):
 
 %.docx: %.commonform %.options $(COMMONFORM)
 	$(COMMONFORM) render -f docx $(shell cat $*.options) < $< > $@
+
+%.md: %.commonform %.options $(COMMONFORM)
+	$(COMMONFORM) render -f markdown $(shell cat $*.options) < $< > $@

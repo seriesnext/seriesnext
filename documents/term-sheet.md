@@ -67,7 +67,7 @@ Major Purchasers will have standard rights to participate on a pro rata basis in
 Board of Directors
 ------------------
 
-_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next, and _{number of mutual directors}_ elected by the mutual consent of the holders of a majority of common stock, voting as a separate class and the holders of a majority of Series Next.
+_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next, and _{number of mutual directors}_ elected by the mutual consent of both the holders of a majority of common stock, on the one hand, and the holders of a majority of Series Next, on the other, each voting as a separate class.
 
 Expenses
 --------

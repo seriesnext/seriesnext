@@ -72,7 +72,7 @@ _{number of common directors}_ directors elected by holders of a majority of com
 Expenses
 --------
 
-Company to reimburse Purchasers for legal fees of counsel in the amount of a flat fee of $_{purchaser counsel reimbursement amount}_.
+Company to reimburse Purchasers $_{purchaser counsel reimbursement amount}_ for legal fees.
 
 Future Rights
 -------------

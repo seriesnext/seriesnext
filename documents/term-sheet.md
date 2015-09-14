@@ -38,7 +38,7 @@ Convertible into one share of Common (subject to proportional adjustments for st
 Voting Rights
 -------------
 
-Votes together with the Common Stock on all matters on an as-converted basis except in the election of directors. Approval of a majority of the Preferred Stock required to:
+Votes, on an as-converted basis, together with the Common Stock on all matters except the election of directors. Approval of a majority of the Preferred Stock required to:
 
 1. adversely change rights of the Preferred Stock;
 2. change the authorized number of shares;

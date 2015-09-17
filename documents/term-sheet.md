@@ -38,15 +38,16 @@ Convertible into one share of Common (subject to proportional adjustments for st
 Voting Rights
 -------------
 
-Votes together with the Common Stock on all matters on an as-converted basis. Approval of a majority of the Preferred Stock required to:
+Votes, on an as-converted basis, together with the Common Stock on all matters except the election of directors. Approval of a majority of the Preferred Stock required to:
 
 1. adversely change rights of the Preferred Stock;
 2. change the authorized number of shares;
 3. authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock;
-4. redeem or repurchase any shares (other than pursuant to employee or consultant agreements);
+4. redeem or repurchase any shares (other than under employment or consulting agreements);
 5. declare or pay any dividend;
-6. change the number of directors; or
-7. liquidate or dissolve, including any change of control.
+6. change the number of directors;
+7. liquidate or dissolve;
+8. enter into a transaction that would be treated as a liquidation, such as a merger.
 
 Documentation
 -------------
@@ -61,17 +62,17 @@ Purchasers who have invested at least $_{major purchaser minimum investment}_ ("
 Participation Right
 -------------------
 
-Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
+Major Purchasers will have standard rights to participate on a pro rata basis in subsequent issuances of equity securities.
 
 Board of Directors
 ------------------
 
-_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next, and _{number of mutual directors}_ elected by mutual consent.
+_{number of common directors}_ directors elected by holders of a majority of common stock, _{number of Series Next directors}_ elected by holders of a majority of Series Next, and _{number of mutual directors}_ elected by the mutual consent of both the holders of a majority of common stock, on the one hand, and the holders of a majority of Series Next, on the other, each voting as a separate class.
 
 Expenses
 --------
 
-Company to reimburse counsel to Purchasers for a flat fee of $_{purchaser counsel reimbursement amount}_.
+Company to reimburse Purchasers $_{purchaser counsel reimbursement amount}_ for legal fees.
 
 Future Rights
 -------------
@@ -81,12 +82,12 @@ The Series Next will be given the same rights as the next series of Preferred St
 Key Holder Matters
 ------------------
 
-Each Key Holder shall have four years vesting beginning _{key holder vesting period start date}_. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each Key Holder will have four years vesting beginning _{key holder vesting period start date}_. Full acceleration upon "Double Trigger." Each Key Holder must have assigned all relevant IP to the Company before closing.
 
 Binding Terms
 -------------
 
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+For a period of 30 days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 --
 

@@ -86,7 +86,7 @@ Each Key Holder shall have four years vesting beginning _{key holder vesting per
 Binding Terms
 -------------
 
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+For a period of 30 days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 --
 

@@ -28,12 +28,12 @@ Price per share (the "**Original Issue Price**"), based on a pre-money valuation
 Liquidation Preference
 -----------------------
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Next, balance of proceeds paid to Common. A merger, reorganization, or similar transaction will be treated as a liquidation.
+1 times the Original Issue Price plus declared but unpaid dividends on each share of Series Next, balance of proceeds paid to Common. A merger, reorganization, or similar transaction will be treated as a liquidation.
 
 Conversion
 ----------
 
-Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends, and the like) at any time at the option of the holder.
+Convertible into 1 share of Common (subject to proportional adjustments for stock splits, stock dividends, and the like) at any time at the option of the holder.
 
 Voting Rights
 -------------
@@ -81,7 +81,7 @@ The Series Next will be given the same rights as the next series of Preferred St
 Key Holder Matters
 ------------------
 
-Each Key Holder shall have four years vesting beginning _{key holder vesting period start date}_. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each Key Holder shall have 4 years vesting beginning _{key holder vesting period start date}_. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 Binding Terms
 -------------

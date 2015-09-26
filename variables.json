@@ -25,9 +25,13 @@
       "signature": {
         "name": "Joe Uncle" } } ],
   "key holders": [
-    { "signature": {
+    { "name": "Alex Founder",
+      "shares": "3,200,000",
+      "signature": {
         "name": "Alex Founder" } },
-    { "signature": {
+    { "name": "Able Also",
+      "shares": "3,200,000",
+      "signature": {
         "name": "Able Also" } } ],
   "major purchaser minimum investment": "$200,000",
   "number of Series Next directors": "1",

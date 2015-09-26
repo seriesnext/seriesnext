@@ -34,14 +34,14 @@ certificate-of-incorporation.docx: certificate-of-incorporation.commonform certi
 
 .PHONY: lint critique
 
-lint:
+lint: $(FORMS)
 	for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) lint < $$form | sort -u; \
 		echo; \
 	done
 
-critique:
+critique: $(FORMS)
 	for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) critique < $$form | sort -u; \

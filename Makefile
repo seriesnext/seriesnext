@@ -3,6 +3,7 @@ VARIABLES=variables.json
 VARIABLES_TO_BLANKS=variables-to-blanks.js
 COMMONFORM=node_modules/.bin/commonform
 MUSTACHE=node_modules/.bin/mustache
+ENGLISH_LIST=node_modules/english-list
 
 all: $(FORMS:.commonform=.docx)
 
@@ -11,11 +12,10 @@ pdf: $(FORMS:.commonform=.pdf)
 %.pdf: %.docx
 	doc2pdf $<
 
-$(COMMONFORM):
+node_modules/%:
 	npm i
 
-$(MUSTACHE):
-	npm i
+$(VARIABLES_TO_BLANKS): $(ENGLISH_LIST)
 
 blanks.json: $(VARIABLES_TO_BLANKS) $(VARIABLES)
 	node $(VARIABLES_TO_BLANKS) $(VARIABLES) > $@

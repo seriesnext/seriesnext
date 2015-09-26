@@ -15,6 +15,8 @@ pdf: $(FORMS:.commonform=.pdf)
 node_modules/%:
 	npm i
 
+.SECONDARY: node_modules
+
 $(VARIABLES_TO_BLANKS): $(ENGLISH_LIST)
 
 blanks.json: $(VARIABLES_TO_BLANKS) $(VARIABLES)

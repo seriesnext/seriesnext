@@ -1,4 +1,5 @@
 FORMS=$(wildcard *.commonform)
+VARIABLES=variables.json
 COMMONFORM=node_modules/.bin/commonform
 
 all: $(FORMS:.commonform=.docx)
@@ -11,11 +12,11 @@ pdf: $(FORMS:.commonform=.pdf)
 $(COMMONFORM):
 	npm i --save commonform/commonform-cli
 
-%.docx: %.commonform %.signatures.json %.options $(COMMONFORM)
-	$(COMMONFORM) render -f docx -s $*.signatures.json $(shell cat $*.options) < $< > $@
+%.docx: %.commonform %.signatures.json %.options $(VARIABLES) $(COMMONFORM)
+	$(COMMONFORM) render -f docx -b $(VARIABLES) -s $*.signatures.json $(shell cat $*.options) < $< > $@
 
-%.docx: %.commonform %.options $(COMMONFORM)
-	$(COMMONFORM) render -f docx $(shell cat $*.options) < $< > $@
+%.docx: %.commonform %.options $(VARIABLES) $(COMMONFORM)
+	$(COMMONFORM) render -f docx -b $(VARIABLES) $(shell cat $*.options) < $< > $@
 
 .PHONY: lint critique
 

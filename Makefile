@@ -3,6 +3,11 @@ COMMONFORM=node_modules/.bin/commonform
 
 all: $(FORMS:.commonform=.docx)
 
+pdf: $(FORMS:.commonform=.pdf)
+
+%.pdf: %.docx
+	doc2pdf $<
+
 $(COMMONFORM):
 	npm i --save commonform/commonform-cli
 

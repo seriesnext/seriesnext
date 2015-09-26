@@ -1,12 +1,34 @@
-{
-  "agreement date": "January 15, 2015",
+{ "agreement date": "January 15, 2015",
+  "chief executive officer": "Alex Founder",
   "corporation name": "NewCo, Inc.",
   "date of incorporation": "July 1, 2014",
   "federal forum": "Northern District of California",
   "formal reference to the corporation's stock plan": "NewCo, Inc. Employee Stock Compensation Plan of 2014",
   "governing law state": "State of California",
   "key holder vesting period start date": "July 15, 2014",
-  "list of purchasers": "Jane Investor, Joe Investor, and Bob Uncle",
+  "purchasers": [
+    { "name": "Jane Investor",
+      "shares": "1,000,000",
+      "signature": {
+        "name": "Jane Investor" } },
+    { "name": "Some Fund LLC",
+      "shares": "500,000",
+      "signature": {
+        "entities": [
+          { "by": "Manager",
+            "name": "Some Fund LLC",
+            "jurisdiction": "Nevada",
+            "form": "limited liability company" } ],
+        "name": "Joe Investor" } },
+    { "name": "Joe Uncle",
+      "shares": "500,000",
+      "signature": {
+        "name": "Joe Uncle" } } ],
+  "key holders": [
+    { "signature": {
+        "name": "Alex Founder" } },
+    { "signature": {
+        "name": "Able Also" } } ],
   "major purchaser minimum investment": "$200,000",
   "number of Series Next directors": "1",
   "number of authorized common shares": "8,000,000",
@@ -31,5 +53,4 @@
   "total Series Next investment amount": "$500,000",
   "total post-money shares reserved for option pool": "1,600,000",
   "unallocated option pool percent": "100%",
-  "unallocated post-money option pool shares": "1,600,000"
-}
+  "unallocated post-money option pool shares": "1,600,000" }

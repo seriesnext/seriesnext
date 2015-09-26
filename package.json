@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "commonform": "^1.0.1",
+    "english-list": "^1.0.0-prerelease-1",
+    "mustache": "^2.1.3"
+  }
+}

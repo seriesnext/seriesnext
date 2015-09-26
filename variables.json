@@ -27,10 +27,12 @@
   "key holders": [
     { "name": "Alex Founder",
       "shares": "3,200,000",
+      "vesting": "25% vest after one year. After that, 1/48 vest at the end of each month.",
       "signature": {
         "name": "Alex Founder" } },
     { "name": "Able Also",
       "shares": "3,200,000",
+      "vesting": "25% vest after one year. After that, 1/48 vest at the end of each month.",
       "signature": {
         "name": "Able Also" } } ],
   "major purchaser minimum investment": "$200,000",

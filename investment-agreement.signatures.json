@@ -1,0 +1,9 @@
+[ { "header": "The parties are signing this Agreement on the date stated above.",
+    "term": "Company",
+    "entities": [
+      { "jurisdiction": "Delaware",
+        "form": "corporation" } ] },
+  { "header": "The parties are signing this Agreement on the date stated above.",
+    "term": "Purchaser" },
+  { "header": "The parties are signing this Agreement on the date stated above.",
+    "term": "Key Holder" } ]

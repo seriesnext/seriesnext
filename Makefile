@@ -11,11 +11,11 @@ pdf: $(FORMS:.commonform=.pdf)
 $(COMMONFORM):
 	npm i --save commonform/commonform-cli
 
+%.docx: %.commonform %.signatures.json %.options $(COMMONFORM)
+	$(COMMONFORM) render -f docx -s $*.signatures.json $(shell cat $*.options) < $< > $@
+
 %.docx: %.commonform %.options $(COMMONFORM)
 	$(COMMONFORM) render -f docx $(shell cat $*.options) < $< > $@
-
-%.md: %.commonform %.options $(COMMONFORM)
-	$(COMMONFORM) render -f markdown $(shell cat $*.options) < $< > $@
 
 .PHONY: lint critique
 

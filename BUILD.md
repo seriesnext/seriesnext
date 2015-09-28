@@ -1,12 +1,12 @@
 Building the Series Next Documents
 ==================================
 
-ZIP archives for each release are created with [Pandoc](http://pandoc.org/) and [Rake](https://github.com/ruby/rake), a build tool in the [Ruby programming language](https://www.ruby-lang.org/en/). To install all the necessary tools and build the ZIP file on a [Debian Linux](http://debian.org/) computer, use the following commands:
+Microsoft Word compatible Office Open XML (.docx) files and Adobe Portable Document Files are created with [GNU Make](https://www.gnu.org/software/make/), [Node.js](https://nodejs.org), [Common Form](https://commonform.github.io/), and [Universal Office Converter](http://dag.wiee.rs/home-made/unoconv/). To install all the necessary tools and build the files on a [Debian Linux](https://debian.org/) computer, use the following commands:
 
 ```bash
-sudo apt-get install git pandoc bundler zip
-git clone https://github.com/seriesnext/seriesnext
+sudo apt-get install git unoconv make nodejs npm
+git clone https://github.com/seriesnext/seriesnext seriesnext
 cd seriesnext
-bundle install
-rake
+make # For OOXML
+make pdf # For PDF
 ```

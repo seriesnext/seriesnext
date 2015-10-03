@@ -1,4 +1,4 @@
-FORMS=$(wildcard *.commonform) investment-agreement.commonform
+FORMS=$(wildcard *.commonform) investment-agreement.commonform disclosure-schedule.commonform
 VARIABLES=variables.json
 VARIABLES_TO_BLANKS=variables-to-blanks.js
 COMMONFORM=node_modules/.bin/commonform
@@ -33,6 +33,9 @@ blanks.json: $(VARIABLES_TO_BLANKS) $(VARIABLES)
 
 certificate-of-incorporation.docx: certificate-of-incorporation.commonform certificate-of-incorporation.options blanks.json $(COMMONFORM)
 	$(COMMONFORM) render -f docx -b blanks.json $(shell cat certificate-of-incorporation.options) < $< > $@
+
+disclosure-schedule.docx: disclosure-schedule.commonform disclosure-schedule.options blanks.json $(COMMONFORM)
+	$(COMMONFORM) render -f docx -b blanks.json $(shell cat disclosure-schedule.options) < $< > $@
 
 .PHONY: lint critique
 

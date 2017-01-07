@@ -13,10 +13,8 @@ pdf: $(FORMS:.commonform=.pdf)
 %.pdf: %.docx
 	doc2pdf $<
 
-node_modules/%:
+$(COMMONFORM) $(MUSTACHE) $(ENGLISH_LIST):
 	npm i
-
-.SECONDARY: node_modules
 
 $(VARIABLES_TO_BLANKS): $(ENGLISH_LIST)
 
@@ -26,25 +24,25 @@ blanks.json: $(VARIABLES_TO_BLANKS) $(VARIABLES)
 %.signatures.json: %.signatures.js $(VARIABLES)
 	node $< $(VARIABLES) > $@
 
-%.commonform: %.mustache $(VARIABLES) $(MUSTACHE)
+%.commonform: %.mustache $(VARIABLES) | $(MUSTACHE)
 	$(MUSTACHE) $(VARIABLES) $*.mustache > $@
 
-%.docx: %.commonform %.signatures.json %.options blanks.json $(COMMONFORM)
+%.docx: %.commonform %.signatures.json %.options blanks.json | $(COMMONFORM)
 	$(COMMONFORM) render -f docx $(STYLE_FLAGS) -b blanks.json -s $*.signatures.json $(shell cat $*.options) < $< > $@
 
-certificate-of-incorporation.docx: certificate-of-incorporation.commonform certificate-of-incorporation.options blanks.json $(COMMONFORM)
+certificate-of-incorporation.docx: certificate-of-incorporation.commonform certificate-of-incorporation.options blanks.json | $(COMMONFORM)
 	$(COMMONFORM) render -f docx -b blanks.json $(shell cat certificate-of-incorporation.options) < $< > $@
 
 .PHONY: lint critique
 
-lint: $(FORMS)
+lint: $(FORMS) | $(COMMONFORM)
 	for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) lint < $$form | sort -u; \
 		echo; \
 	done
 
-critique: $(FORMS)
+critique: $(FORMS) | $(COMMONFORM)
 	for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) critique < $$form | sort -u; \

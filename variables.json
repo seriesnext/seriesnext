@@ -1,4 +1,5 @@
-{ "agreement date": "January 15, 2015",
+{
+  "agreement date": "January 15, 2015",
   "chief executive officer": "Alex Founder",
   "corporation name": "NewCo, Inc.",
   "date of incorporation": "July 1, 2014",
@@ -7,34 +8,54 @@
   "governing law state": "State of California",
   "key holder vesting period start date": "July 15, 2014",
   "purchasers": [
-    { "name": "Jane Investor",
+    {
+      "name": "Jane Investor",
       "shares": "1,000,000",
       "signature": {
-        "name": "Jane Investor" } },
-    { "name": "Some Fund LLC",
+        "name": "Jane Investor"
+      }
+    },
+    {
+      "name": "Some Fund LLC",
       "shares": "500,000",
       "signature": {
         "entities": [
-          { "by": "Manager",
+          {
+            "by": "Manager",
             "name": "Some Fund LLC",
             "jurisdiction": "Nevada",
-            "form": "limited liability company" } ],
-        "name": "Joe Investor" } },
-    { "name": "Joe Uncle",
+            "form": "limited liability company"
+          }
+        ],
+        "name": "Joe Investor"
+      }
+    },
+    {
+      "name": "Joe Uncle",
       "shares": "500,000",
       "signature": {
-        "name": "Joe Uncle" } } ],
+        "name": "Joe Uncle"
+      }
+    }
+  ],
   "key holders": [
-    { "name": "Alex Founder",
+    {
+      "name": "Alex Founder",
       "shares": "3,200,000",
       "vesting": "25% vest after 1 year. After that, 1/48 vest at the end of each month.",
       "signature": {
-        "name": "Alex Founder" } },
-    { "name": "Able Also",
+        "name": "Alex Founder"
+      }
+    },
+    {
+      "name": "Able Also",
       "shares": "3,200,000",
       "vesting": "25% vest after 1 year. After that, 1/48 vest at the end of each month.",
       "signature": {
-        "name": "Able Also" } } ],
+        "name": "Able Also"
+      }
+    }
+  ],
   "major purchaser minimum investment": "$200,000",
   "number of Series Next directors": "1",
   "number of authorized common shares": "8,000,000",
@@ -59,4 +80,5 @@
   "total Series Next investment amount": "$500,000",
   "total post-money shares reserved for option pool": "1,600,000",
   "unallocated option pool percent": "100%",
-  "unallocated post-money option pool shares": "1,600,000" }
+  "unallocated post-money option pool shares": "1,600,000"
+}

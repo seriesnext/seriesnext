@@ -17,13 +17,15 @@ process.stdout.write(
             jurisdiction: 'Delaware',
             name: vars['corporation name']
           }
-        ]
+        ],
+        information: ['date']
       }
     ]
       .concat(vars.purchasers.map(function (purchaser) {
         var signature = purchaser.signature
         signature.header = header
         signature.term = 'Purchaser'
+        signature.information = ['date']
         return signature
       })),
     null, 2

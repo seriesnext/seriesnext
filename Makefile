@@ -4,6 +4,7 @@ VARIABLES_TO_BLANKS=variables-to-blanks.js
 COMMONFORM=node_modules/.bin/commonform
 MUSTACHE=node_modules/.bin/mustache
 ENGLISH_LIST=node_modules/english-list
+STYLE_FLAGS=--left-align-title --indent-margins
 
 all: $(FORMS:.commonform=.docx)
 
@@ -29,7 +30,7 @@ blanks.json: $(VARIABLES_TO_BLANKS) $(VARIABLES)
 	$(MUSTACHE) $(VARIABLES) $*.mustache > $@
 
 %.docx: %.commonform %.signatures.json %.options blanks.json $(COMMONFORM)
-	$(COMMONFORM) render -f docx -b blanks.json -s $*.signatures.json $(shell cat $*.options) < $< > $@
+	$(COMMONFORM) render -f docx $(STYLE_FLAGS) -b blanks.json -s $*.signatures.json $(shell cat $*.options) < $< > $@
 
 certificate-of-incorporation.docx: certificate-of-incorporation.commonform certificate-of-incorporation.options blanks.json $(COMMONFORM)
 	$(COMMONFORM) render -f docx -b blanks.json $(shell cat certificate-of-incorporation.options) < $< > $@
